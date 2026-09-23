@@ -1,0 +1,33 @@
+[{
+  "_id": {
+    "$oid": "6ab3dd1eff704a4ec17218dd"
+  },
+  "name": "ahmed mohamed",
+  "email": "nour@gmail.com",
+  "password": "75487534857297",
+  "phone": "865786746378",
+  "age": 20,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6ab3fa596d3f9eac27a9635e"
+  },
+  "name": "mahmoud mohamed elsayed",
+  "email": "mahmoud@gmail.com",
+  "password": "7548797",
+  "phone": "01576578656487",
+  "age": 30,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6ab41a87447f05fdb40ab3cd"
+  },
+  "name": "salma",
+  "email": "salma@gmail.com",
+  "password": "7656548797",
+  "phone": "01576578656487",
+  "age": 23,
+  "__v": 0
+}]
